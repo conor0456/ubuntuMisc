@@ -4,4 +4,4 @@
 
 sudo apt update
 sudo apt install -y vim ssh conky-all apache2 r-base deluge neofetch 
-neofetch dalisha-icons unity-tweak-tool conky-manager git atom
+neofetch dalisha-icons unity-tweak-tool conky-manager git atom fail2ban
