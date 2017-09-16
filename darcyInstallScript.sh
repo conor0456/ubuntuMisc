@@ -5,11 +5,10 @@ sudo add-apt-repository -y ppa:teejee2008/ppa
 sudo add-apt-repository -y ppa:noobslab/icons
 sudo add-apt-repository -y ppa:noobslab/icons
 
+sudo apt upgrade
 sudo apt update
-sudo apt install -y vim ssh conky-all apache2 r-base deluge neofetch
-neofetch dalisha-icons unity-tweak-tool conky-manager git atom fail2ban smartctl
+
+sudo apt install -y vim ssh conky-all apache2 r-base deluge neofetch dalisha-icons unity-tweak-tool conky-manager git atom fail2ban smartctl
+neofetch 
 
 
-sudo apt update
-sudo apt install -y vim ssh conky-all apache2 r-base deluge neofetch 
-neofetch dalisha-icons unity-tweak-tool conky-manager git atom fail2ban smartctl
